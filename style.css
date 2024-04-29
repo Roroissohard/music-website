@@ -1,0 +1,20 @@
+.center {
+    text-align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        
+}
+.left {
+    text-align: left;
+}
+.right {
+    text-align: right;
+}
+.leftp {
+    top: 50%;
+    left: 50%;
+}
+.background {
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALoAAAC6CAMAAAAu0KfDAAAAA1BMVEWkqa2uqRCTAAAAOElEQVR4nO3BAQ0AAADCoPdPbQ8HFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALwZh94AAaYbEC4AAAAASUVORK5CYII=);
+}
