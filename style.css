@@ -3,6 +3,7 @@
         display: block;
         margin-left: auto;
         margin-right: auto;
+        margin-bottom: 100%;
         
 }
 .left {
@@ -15,6 +16,18 @@
     top: 50%;
     left: 50%;
 }
-.background {
-    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALoAAAC6CAMAAAAu0KfDAAAAA1BMVEWkqa2uqRCTAAAAOElEQVR4nO3BAQ0AAADCoPdPbQ8HFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALwZh94AAaYbEC4AAAAASUVORK5CYII=);
-}
+body {
+    background-image: url("https://images2.alphacoders.com/691/691944.jpg");
+    background-repeat: no-repeat;
+    background-position-y: top;
+   }
+   .color {
+    background-image: url("https://www.martela.com/sites/default/files/styles/gallery_full/public/pim2022_files/MU43_light_grey_melamine_fullHD.jpeg?itok=e69l9_Zc");
+    background-position-y: bottom;
+    background-size: 100%;
+   }
+   .center2 {
+    right: 50%s;
+   }
+
+ 
