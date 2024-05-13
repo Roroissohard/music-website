@@ -1,6 +1,7 @@
 .center {
     text-align: center;
-    
+  justify-content: center;
+  
 }
 .jersey-10-regular {
     font-family: "Jersey 10", sans-serif;
@@ -8,14 +9,10 @@
     font-style: oblique;
   }
   body {
-    background-image: url("https://wallpapercave.com/wp/wp1818614.png");
-    background-repeat: no-repeat;
+    background-image: url(https://h6a8m2f3.rocketcdn.me/wp-content/uploads/2023/06/DE6211.jpg);
+    background-repeat: none;
     background-position-y: top;
    }
-  #intro {
-    background-image: url("https://mdbootstrap.com/img/new/fluid/city/018.jpg");
-    height: 100vh;
-  }
   .left {
     display: flex;
     align-items: left;
