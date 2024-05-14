@@ -1,24 +1,22 @@
 .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-} 
+  text-align: center;
+  
+}
 .jersey-10-regular {
-    font-family: "Jersey 10", sans-serif;
-    font-weight: 400;
-    font-style: oblique;
-  }
-  body {
-    background-image: url("https://wallpapercave.com/wp/wp1818614.png");
-    background-repeat: no-repeat;
-    background-position-y: top;
-   }
-  #intro {
-    background-image: url("https://mdbootstrap.com/img/new/fluid/city/018.jpg");
-    height: 100vh;
-  }
-  .left {
-    display: flex;
-    align-items: left;
-  }
+  font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: oblique;
+}
+body {
+  background-image: url("https://wallpapercave.com/wp/wp1818614.png");
+  background-repeat: no-repeat;
+  background-position-y: top;
+ }
+#intro {
+  background-image: url("https://mdbootstrap.com/img/new/fluid/city/018.jpg");
+  height: 100vh;
+}
+.left {
+  display: flex;
+  align-items: left;
+}
